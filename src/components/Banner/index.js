@@ -30,7 +30,7 @@ const Logo = styled('img')`
 export function Banner({ t }) {
   return (
     <BannerRoot>
-      <Logo src="/static/images/reac-next-boilerplate-logo.svg" alt="react-next-boilerplate" />
+      <Logo src="/assets/images/reac-next-boilerplate-logo.svg" alt="react-next-boilerplate" />
 
       <Title>{t('title')}</Title>
 

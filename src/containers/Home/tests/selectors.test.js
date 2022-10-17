@@ -20,11 +20,11 @@ describe('selectShowcases', () => {
       fetched: false,
       error: null,
       showcases: [
-        { title: 'Auth0"', src: 'https://nextjs.org/static/images/showcases/auth0.jpg', link: 'https://auth0.com/' },
+        { title: 'Auth0"', src: 'https://nextjs.org/assets/images/showcases/auth0.jpg', link: 'https://auth0.com/' },
         {
           link: 'https://marketplace.uber.com/',
           title: 'Uber Marketplace',
-          src: 'https://nextjs.org/static/images/showcases/underbelly.jpg',
+          src: 'https://nextjs.org/assets/images/showcases/underbelly.jpg',
         },
       ],
     };

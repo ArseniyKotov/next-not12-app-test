@@ -60,7 +60,7 @@ exports[`<Layout /> Should render correctly 1`] = `
       <img
         alt="react-next-boilerplate"
         class="css-1gb4ms7-Logo eywty1z0"
-        src="/static/images/reac-next-boilerplate-logo.svg"
+        src="/assets/images/reac-next-boilerplate-logo.svg"
       />
       <h1
         class="css-3j23gb-Title eywty1z2"

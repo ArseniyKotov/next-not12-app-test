@@ -6,26 +6,26 @@ import { Showcases } from '..';
 describe('<Showcases />', () => {
   const spy = jest.fn();
   const showcases = [
-    { link: 'https://auth0.com/', title: 'Auth0', src: 'https://nextjs.org/static/images/showcases/auth0.jpg' },
+    { link: 'https://auth0.com/', title: 'Auth0', src: 'https://nextjs.org/assets/images/showcases/auth0.jpg' },
     {
       title: 'LEGO for Kids',
-      src: 'https://nextjs.org/static/images/showcases/lego.jpg',
+      src: 'https://nextjs.org/assets/images/showcases/lego.jpg',
       link: 'https://www.lego.com/en-us/kids',
     },
     {
       title: 'Netflix Jobs',
-      src: 'https://nextjs.org/static/images/showcases/showcases-02.jpg',
+      src: 'https://nextjs.org/assets/images/showcases/showcases-02.jpg',
       link: 'https://jobs.netflix.com',
     },
     {
-      src: 'https://nextjs.org/static/images/showcases/starbucksreserve.jpg',
+      src: 'https://nextjs.org/assets/images/showcases/starbucksreserve.jpg',
       link: 'https://www.starbucksreserve.com/en-us',
       title: 'Starbucks Reserve',
     },
-    { link: 'https://m.twitch.tv', title: 'Twitch', src: 'https://nextjs.org/static/images/showcases/twitch.jpg' },
+    { link: 'https://m.twitch.tv', title: 'Twitch', src: 'https://nextjs.org/assets/images/showcases/twitch.jpg' },
     {
       title: 'Uber Marketplace',
-      src: 'https://nextjs.org/static/images/showcases/underbelly.jpg',
+      src: 'https://nextjs.org/assets/images/showcases/underbelly.jpg',
       link: 'https://marketplace.uber.com/',
     },
   ];
